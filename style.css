@@ -5,6 +5,11 @@
     font-family: Poppins;
 }
 
+body{
+    background-color: black;
+}
+
+
 nav{
     border: 2px solid yellow;
     display: flex;
@@ -32,4 +37,10 @@ ul li{
 
 ul li a{
     text-decoration: none;
+}
+
+
+main .left{
+    border: 2px solid red;
+    width: 45%;
 }
