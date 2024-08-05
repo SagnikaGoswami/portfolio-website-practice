@@ -234,10 +234,11 @@ main{
 
 
 footer{
-    border: 2px solid violet;
+    /* border: 2px solid violet; */
     margin: 0 12vw;
     display: flex;
     justify-content: space-between;
+    align-items: center;
 }
 
 footer .foot-left{
@@ -268,7 +269,7 @@ footer .foot-right{
 
 footer .foot-right .logo{
     transform: scale(1.7);
-    border: 2px solid yellow;
+    /* border: 2px solid yellow; */
 }
 
 footer .foot-right .logo:hover{
