@@ -4,3 +4,32 @@
     box-sizing: border-box;
     font-family: Poppins;
 }
+
+nav{
+    border: 2px solid yellow;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 12vh;
+    padding: 0 5%;
+}
+
+
+.logo{
+    border: 2px solid red;
+}
+
+ul{
+    width: 40%;
+    border: 2px solid green;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+ul li{
+    list-style-type: none;
+}
+
+ul li a{
+    text-decoration: none;
+}
