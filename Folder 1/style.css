@@ -29,7 +29,7 @@
     /* background-color: black; */
     color: white;
     display: flex;
-    justify-content: center;
+    justify-content: flex-start;
     align-items: center;
     font-size: 2em;
 }
@@ -123,6 +123,7 @@ main{
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    font-size: 1.4em;
 }
 .main-1{
     display: flex;
@@ -169,6 +170,7 @@ main{
 }
 .sign-up:hover{
     cursor: pointer;
+    background-color: #0d899a; 
 }
 
 
